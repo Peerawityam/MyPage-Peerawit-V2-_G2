@@ -6,7 +6,7 @@
 
 body {
   font-family: "Segoe UI", Arial, sans-serif;
-  background: url(../picture/9001843.jpg) no-repeat center center;
+  background: url("../picture/9001843.jpg") no-repeat center center;
   color: #fff;
   line-height: 1.6;
   margin-top: 250px;
